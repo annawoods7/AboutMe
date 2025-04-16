@@ -42,5 +42,8 @@ Pandas dataframes were used to more conveniently reformat data such as column na
   - Building the react project to be hosted back on the server
 
   The workflow looked something like this:
-  
+
+  ![workflow Example]({{ site.baseurl }}/assets/images/deploy_web_diagram.drawio)
+
+
 #### Configuring a Docker compose file for user authentication
