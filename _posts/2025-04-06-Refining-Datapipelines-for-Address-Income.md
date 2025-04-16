@@ -15,14 +15,15 @@ Each of these projects was a team effort with my fellow team members Anthony, Ra
 #### Data cleaning using Airflow pipelines and python pandas library
   One of my first projects was to write a python function to clean data coming from a realestate API for insertion into a database hosted in Supabase (a database hosting software). This required:
   
-  - [] Examing JSON files to determine what data to collect
-  - [] Mapping column names
-  - [] Creating cleaning functions for certain columns
-  - [] Creating functions to covert data into python data types
-  - [] Debugging code by examing Airflow logs
+  -  Examing JSON files to determine what data to collect
+  -  Mapping column names
+  -  Creating cleaning functions for certain columns
+  -  Creating functions to covert data into python data types
+  -  Debugging code by examing Airflow logs
 
 Pandas dataframes were used to more conveniently reformat data such as column names and values. Below is an example of the airflow tasks logs:
 
+![Airflow Example]({{ site.baseurl }}/assets/images/Airflow_example.png)
 
 #### Setting up Deployment of a Development website through Github Actions
 
