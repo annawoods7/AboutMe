@@ -1,9 +1,30 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="Page-1" id="a8vRVDiVYFpgi989E39K">
-    <mxGraphModel>
+    <mxGraphModel dx="2070" dy="1082" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AXhNe09FuJOnoz_Loe8W-3" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;startSize=8;endSize=8;" edge="1" parent="1" source="AXhNe09FuJOnoz_Loe8W-1" target="AXhNe09FuJOnoz_Loe8W-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AXhNe09FuJOnoz_Loe8W-1" value="Checkout Repository" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="69" width="201" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="AXhNe09FuJOnoz_Loe8W-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;startSize=8;endSize=8;" edge="1" parent="1" source="AXhNe09FuJOnoz_Loe8W-2" target="AXhNe09FuJOnoz_Loe8W-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AXhNe09FuJOnoz_Loe8W-2" value="Build React app from &#39;web&#39; folder in Repository" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="71" y="69" width="201" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="AXhNe09FuJOnoz_Loe8W-7" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;startSize=8;endSize=8;" edge="1" parent="1" source="AXhNe09FuJOnoz_Loe8W-4" target="AXhNe09FuJOnoz_Loe8W-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AXhNe09FuJOnoz_Loe8W-4" value="Set up SSH connection with server" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="392" y="69" width="201" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="AXhNe09FuJOnoz_Loe8W-6" value="Deploy app to folder &#39;web_live&#39; hosted on server" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="713" y="69" width="201" height="111" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
