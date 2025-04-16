@@ -57,4 +57,7 @@ Pandas dataframes were used to more conveniently reformat data such as column na
 
 This is currently a work in progress and I am in the debugging stage, so please enjoy the Docker mascot in the meantime: 
 
+![docker_Example]({{ site.baseurl }}/assets/images/docker_logo.png)
+
+
 # Reflection
