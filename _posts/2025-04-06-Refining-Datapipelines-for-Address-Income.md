@@ -7,8 +7,8 @@ This past semester I worked as a Data Engineer for [Address Income](https://www.
 <div align="center">
   <p>Thank you to Address Income and Nevada Career Studio for hosting this internship</p>
 
-  <img src="{{ site.baseurl }}/assets/images/image1.png" alt="Image 1" width="200" style="margin-right: 10px;">
-  <img src="{{ site.baseurl }}/assets/images/image2.png" alt="Image 2" width="200">
+  <img src="{{ site.baseurl }}/assets/images/NevadaLogo.png" alt="Image 1" width="200" style="margin-right: 10px;">
+  <img src="{{ site.baseurl }}/assets/images/AddressLogo.png" alt="Image 2" width="200">
 </div>
 
 
