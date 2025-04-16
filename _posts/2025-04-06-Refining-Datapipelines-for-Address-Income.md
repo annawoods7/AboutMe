@@ -43,7 +43,7 @@ Pandas dataframes were used to more conveniently reformat data such as column na
 
   The workflow looked something like this:
 
-  ![workflow Example]({{ site.baseurl }}/assets/images/deploy_web_diagram.drawio)
+  ![workflow_Example]({{ site.baseurl }}/assets/images/deploy_web_diagram.drawio)
 
 
 #### Configuring a Docker compose file for user authentication
