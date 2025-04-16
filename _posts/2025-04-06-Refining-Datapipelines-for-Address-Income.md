@@ -5,7 +5,7 @@ date: 2025-04-06
 This past semester I worked as a Data Engineer for [Address Income](https://www.addressincome.com/company/about-us) - a real estate investment firm. During this time I was able to complete wide range of cool projects that brought me out of my comfort zone as an information systems major. 
 
 <div align="center">
-  <p>Thank you to Address Income and Nevada Career Studio for hosting this internship</p>
+  <p>Thank you to Address Income and Nevada Career Studio for hosting this internship!</p>
 
   <img src="{{ site.baseurl }}/assets/images/NevadaLogo.png" alt="Image 1" width="200" style="margin-right: 10px;">
   <img src="{{ site.baseurl }}/assets/images/AddressLogo.png" alt="Image 2" width="200">
@@ -14,15 +14,15 @@ This past semester I worked as a Data Engineer for [Address Income](https://www.
 
 
 # Background 
-One of the goals Address Income has is to host an online platform that congregates key real estate data into a pleasant user interface everyday investors are able to access. The website will also contain features such as but not limited to: Single family and multi family analytics reports, varying levels of access for different user types, dashboards, and realtime data updates.
+One of the goals Address Income has is to host an online platform that congregates key real estate data into a pleasant user interface everyday investors are able to access. The website will also contain features such as but not limited to: Single family and Multi family analytics reports, varying levels of access for different user types, dashboards, and realtime data updates.
 
 # Projects
 This resulted in a variety of projects that I had the pleasure of working on. In this blog, I will focus on the top three: **Data cleaning using Airflow pipelines and python pandas library**, **Setting up Deployment of a Development website through Github Actions**, and **Configuring a Docker compose file for user authentication**. 
 
-Each of these projects was a team effort with my fellow team members Anthony, Rania, and Sean! 
+Each of these projects was a team effort with my fellow team members Anthony, Rania, and Sean. 
 
 #### Data cleaning using Airflow pipelines and python pandas library
-  One of my first projects was to write a python function to clean data coming from a realestate API for insertion into a database hosted in Supabase (a database hosting software). This required:
+  One of my first projects was to write a python function to clean data coming from a real estate API for insertion into a database hosted in Supabase (a database hosting software). This required:
   
   -  Examing JSON files to determine what data to collect
   -  Mapping column names
@@ -35,7 +35,7 @@ Pandas dataframes were used to more conveniently reformat data such as column na
 ![Airflow Example]({{ site.baseurl }}/assets/images/Airflow_example.png)
 
 #### Setting up Deployment of a Development website through Github Actions
-  Later on I was tasked with using Github actions to deploy our react website. This required:
+  Later on I was tasked with using Github actions to deploy the react website. This required:
 
   - Configuring a yaml file in Github workflows
   - Setting up SSH capabilities for Github Actions to write to the company development server
