@@ -37,13 +37,24 @@ Pandas dataframes were used to more conveniently reformat data such as column na
 #### Setting up Deployment of a Development website through Github Actions
   Later on I was tasked with using Github actions to deploy our react website. This required:
 
-  - Configuting a yaml file in Github workflows
-  - Setting up SSH capabilities for Github to read and write to the company server
-  - Building the react project to be hosted back on the server
+  - Configuring a yaml file in Github workflows
+  - Setting up SSH capabilities for Github Actions to write to the company development server
+  - Building the react project to be hosted on the developmnent server
 
-  The workflow looked something like this:
+  The workflow looks something like this:
 
   ![workflow_Example]({{ site.baseurl }}/assets/images/deploy_web_diagram.drawio.png)
 
 
+
 #### Configuring a Docker compose file for user authentication
+  My final, and currently ongoing, project is to configure a Docker compose file which authenticates users. This will ensure access to view the development website is secure and only alotted to the proper users. This requires:
+  
+  - Pulling a KeyCloak docker image
+  - Creating a client in KeyCloak for Oath2_proxy
+  - Pulling a Oath2_proxy docker image
+  - Setting up nginx as a reverse proxy
+
+This is currently a work in progress and I am in the debugging stage, so please enjoy the Docker mascot in the meantime: 
+
+# Reflection
