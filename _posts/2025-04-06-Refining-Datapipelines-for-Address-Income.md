@@ -35,5 +35,12 @@ Pandas dataframes were used to more conveniently reformat data such as column na
 ![Airflow Example]({{ site.baseurl }}/assets/images/Airflow_example.png)
 
 #### Setting up Deployment of a Development website through Github Actions
+  Later on I was tasked with using Github actions to deploy our react website. This required:
 
+  - Configuting a yaml file in Github workflows
+  - Setting up SSH capabilities for Github to read and write to the company server
+  - Building the react project to be hosted back on the server
+
+  The workflow looked something like this:
+  
 #### Configuring a Docker compose file for user authentication
