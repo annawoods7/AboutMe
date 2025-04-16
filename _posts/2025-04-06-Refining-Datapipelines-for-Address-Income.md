@@ -10,8 +10,8 @@ One of the goals Address Income has is to host an online platform that congregat
 # Projects
 This resulted in a variety of projects that I had the pleasure of working on. In this blog, I will focus on the top three: **Data cleaning using Airflow pipelines and python pandas library**, **Setting up Deployment of a Development website through Github Actions**, and **Configuring a Docker compose file for user authentication**. 
 
-## Data cleaning using Airflow pipelines and python pandas library
+#### Data cleaning using Airflow pipelines and python pandas library
 
-## Setting up Deployment of a Development website through Github Actions
+#### Setting up Deployment of a Development website through Github Actions
 
-## Configuring a Docker compose file for user authentication
+#### Configuring a Docker compose file for user authentication
