@@ -27,7 +27,7 @@ Each of these projects was a team effort with my fellow team members Anthony, Ra
   -  Examing JSON files to determine what data to collect
   -  Mapping column names
   -  Creating cleaning functions for certain columns
-  -  Creating functions to covert data into python data types
+  -  Creating functions to convert data into python data types
   -  Debugging code by examing Airflow logs
 
 Pandas dataframes were used to more conveniently reformat data such as column names and values. Below is an example of the airflow tasks logs:
@@ -61,3 +61,4 @@ This is currently a work in progress and I am in the debugging stage, so please 
 
 
 # Reflection
+This internship has been an extremeley valuable experience for me because it has given me a glimpse into fullstack software engineering. Along with this, I was able to put into practice concepts I had learned from my classes such as designing databases and scrum methodology. It allowed me to enhance my skillset when it comes to translating business needs to technical specifications. No matter the direction my career takes, I am confident the knowledge and skills I’ve gained will be applicable. I am grateful to my team, Nevada Career Studio, and Address Income for making this a wonderful experience.
